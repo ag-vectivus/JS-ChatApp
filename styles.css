@@ -19,12 +19,17 @@ body {
 }
 
 .username {
+	color: rgba(42, 42, 46, 1);
 	font-weight: bold;
+}
+
+.message {
+	color: rgba(42, 42, 46, 1);
 }
 
 .time {
 	font-size: 0.7em;
-	color: rgba(153, 153, 153, 1);
+	color: rgba(42, 42, 46, 1);
 }
 
 .update-mssg {
